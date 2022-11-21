@@ -1,2 +1,3 @@
 # Business-Dashboard
-This an admin dashboard project created in React. It provides valuable insights of the business along with orders and top customers.
+This is an admin dashboard created in React as a front-end project. 
+It provides valuable insights of the business along with orders and top customers.
